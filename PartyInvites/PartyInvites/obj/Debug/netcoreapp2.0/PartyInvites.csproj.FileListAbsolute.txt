@@ -9,3 +9,14 @@ C:\Users\鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\D
 C:\Users\鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
 C:\Users\鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
 C:\Users\鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\俞鋆\OneDrive\代码\C#练习\dotnetcore\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
